@@ -7,7 +7,7 @@ I explored representational dissimilarity
 of stimuli in medial temporal lobe and deep neural networks as part of my [MSNE](https://www.msne.ei.tum.de/en/home/) research project with 
 [Prof. Jakob Macke@CNE]( https://github.com/cne-tum "Computational Neuroengineering"). 
 
-This package resulted from our project and provides **automated** representational dissimilarity analysis and comparison for 
+This package resulted from our project and provides automated representational dissimilarity analysis and comparison for 
 preprocessed brain recordings, AlexNet, VGG, and ResNet.
 
 #### Example usage:
@@ -15,7 +15,7 @@ We want to know how 10 images from 10 semantically different classes from [Image
 
 Here are the images (one column corresponds to one class):
 
-![diagram](example_imagenet100.png)
+![diagram](https://raw.githubusercontent.com/jkoal/dnnvsbrain/assets/example_imagenet100.png)
 
 And here's the code:
 
@@ -33,7 +33,7 @@ vis.plot(rdms)
 
 Giving these results:
 
-![diagram](example_alexnet.png)
+![diagram](https://raw.githubusercontent.com/jkoal/dnnvsbrain/assets/example_alexnet.png)
 
 Note: Cleaning the code is still work in progress. Example notebooks should be available soon. Feel free to contact me.
 
