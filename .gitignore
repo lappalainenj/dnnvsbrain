@@ -1,0 +1,10 @@
+dnnvsbrain.egg-info/
+.idea/
+.ipynb_checkpoints/
+Makefile
+build/
+source/
+**/*.npy
+**/*.model
+**/*.ipynb
+**/__pycache__
